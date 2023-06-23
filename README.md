@@ -6,7 +6,7 @@ This project creates two different NN to binary classify the given dataset
 
 See the paper of this project for a detailed information about each NN defined. We also refer the reader to the paper for specific details about the NN.
 
-#How to run the code?
+# How to run the code?
 
 Use the following commands to run the NN
 1. pip install -r requirements.txt
