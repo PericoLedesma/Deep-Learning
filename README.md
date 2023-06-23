@@ -1,1 +1,3 @@
-# Deep-Learning
+# Deep-Learning project: Multi-layer perceptron for binary classification
+
+This paper aims to create two deep learning networks, one from scratch where we refrain from state-of-art neural network packages and instead we use basic python libraries, and other using machine learning framework, in particular Keras frame- work. We provide a thorough exploratory data analysis and base the decision in our neural networks outcomes. Both networks are created dynamically in order to evaluate different configurations and identify the optimal number of layers and perceptrons. Both model metrics are compared and next steps are provided to improve the performance.
